@@ -1,0 +1,2 @@
+- Always add an empty line below a markdown header (i.e. #, ##, ###, or ####)
+- In Markdown, when you write something like "term - explanation", use colons instead of dashes. For example: "**foo:** bar" instead of "**foo** - bar"
